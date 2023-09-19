@@ -27,7 +27,7 @@ The following **additional** features are implemented:
 - 
 ## Video Walkthrough
 
-<img src='Daily Color Demo.gif' width='' alt='Video Walkthrough' />
+<img src='e289d640-402b-4113-bb74-9dea16d58931.gif' width='' alt='Video Walkthrough' />
 
 
 ## Notes
