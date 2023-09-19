@@ -22,12 +22,12 @@ The following **optional** features are implemented:
 
 The following **additional** features are implemented:
 
-- [ ] List anything else that you can get done to improve the app functionality!
-- I would want to make it so that you can only guess real words
-- 
+- [x] List anything else that you can get done to improve the app functionality!
+- I would want to make it so that you can only guess real words, but I have not implemented it yet 
+  
 ## Video Walkthrough
 
-<img src='e289d640-402b-4113-bb74-9dea16d58931.gif' width='' alt='Video Walkthrough' />
+<img src='project1-walkthrough.gif' width='' alt='Video Walkthrough' />
 
 
 ## Notes
